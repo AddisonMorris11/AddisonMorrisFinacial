@@ -1,0 +1,21 @@
+/*Addison Morris Dec, 9, 2021*/
+body{
+    background-color: rgb(233, 176, 176);
+}
+h1{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+p{
+    color:lightgray;
+}
+li{
+    color: #212529;
+}
+h1,p{
+    font-family: 'Montserrat', sans-serif;
+    color: dimgray;
+}
+.col{
+    text-align: center;
+}
